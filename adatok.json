@@ -1,0 +1,16 @@
+{
+  "LISTA": [
+    {
+      "termek": "tablet",
+      "ar": 100,
+      "szin": "fekete",
+      "id": 2
+    },
+    {
+      "termek": "telefon",
+      "ar": 1000,
+      "szin": "fehér",
+      "id": 3
+    }
+  ]
+}
